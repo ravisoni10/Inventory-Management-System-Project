@@ -2,6 +2,3 @@
 
 Inventory managegment system 
 
-#### License
-
-mit
